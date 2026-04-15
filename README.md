@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://veilfire.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffullsizetext.8c7c5295.png&w=256&q=75" alt="Veilfire" width="200"/>
+  <img src="https://veilfire.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffullsizetext.0gfjhhd~tl0he.png&w=384&q=75" alt="Veilfire" width="200"/>
 </p>
 
 <h3 align="center">Safe, Secure, Ethical Artificial Intelligence</h3>
